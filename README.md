@@ -17,7 +17,7 @@ and used Switch,case for display current component\
 In construction layout component used bootstrap grid
 
 ### module 3
-in this module used select/option from ant design component for search in list about layout\ 
+in this module used select/option from ant design component for search in list about layout \ 
 and use dynamic render component for display current component\
 In construction layout component used bootstrap grid
 
