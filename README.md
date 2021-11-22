@@ -9,7 +9,7 @@ this app have 3 module:
 input with datalist\
 switch,case\
 sass\
-bootstrap
+bootstrap\
 in this module used datalist (html5 tag) for search in list about layout\
 and used Switch,case for display current component\
 In construction layout component used bootstrap grid
@@ -19,7 +19,7 @@ In construction layout component used bootstrap grid
 select/option\
 switch,case\
 sass\
-bootstrap
+bootstrap\
 in this module used select/option (html5 tag) for search in list about layout\
 and used Switch,case for display current component\
 In construction layout component used bootstrap grid
@@ -30,7 +30,7 @@ select/option\
 switch,case\
 sass\
 ant design\
-bootstrap
+bootstrap\
 in this module used select/option from ant design component for search in list about layout\
 and use dynamic render component for display current component\
 In construction layout component used bootstrap grid
