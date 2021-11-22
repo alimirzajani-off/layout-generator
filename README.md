@@ -6,25 +6,31 @@ this app have 3 module:
 
 ### module 1
 
-#### sass
-#### bootstrap
+input with datalist\
+switch,case\
+sass\
+bootstrap
 in this module used datalist (html5 tag) for search in list about layout\
 and used Switch,case for display current component\
 In construction layout component used bootstrap grid
 
 ### module 2
 
-#### sass
-#### bootstrap
+select/option\
+switch,case\
+sass\
+bootstrap
 in this module used select/option (html5 tag) for search in list about layout\
 and used Switch,case for display current component\
 In construction layout component used bootstrap grid
 
 ### module 3
 
-#### sass
-#### bootstrap
-#### ant design
+select/option\
+switch,case\
+sass\
+ant design\
+bootstrap
 in this module used select/option from ant design component for search in list about layout\
 and use dynamic render component for display current component\
 In construction layout component used bootstrap grid
