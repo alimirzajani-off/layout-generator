@@ -15,7 +15,7 @@ const ModuleOne = () => {
     <div className="App">
       <Search DataList={handleDataList} />
       <Layout layout={layout} />
-      <button className="btn btn-danger" onClick={() => navigator("/")}>
+      <button className="btn btn-light" onClick={() => navigator("/")}>
         back home
       </button>
     </div>
