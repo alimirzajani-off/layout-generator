@@ -27,7 +27,7 @@ In construction layout component used bootstrap grid
 ### module 3
 
 1.select/option\
-2.switch,case\
+2.dynamic render component\
 3.sass\
 4.ant design\
 5.bootstrap\
